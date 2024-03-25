@@ -1,3 +1,3 @@
-# Challenge Synrgy 7
+# Challenge Chapter 2
 
-## Setiap tugas berada di branch nya masing-masing
+## Binar Car Rental Responsive
