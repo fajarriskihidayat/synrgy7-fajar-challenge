@@ -1,1 +1,3 @@
-# synrgy7-fajar-challenge
+# Challenge Synrgy 7
+
+## Setiap tugas berada di branch nya masing-masing
